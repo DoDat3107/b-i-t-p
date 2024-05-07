@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>ĐỖ CHÍNH ĐẠT</h1>
+    <img src="ảnh.jpg" alt="">
+    <br>
+    <a href="https://www.google.com/">facebook</a>
+    <p><b>Họ tên:</b>
+        <b3>Đỗ Chính Đạt</b3>
+    </p>
+    <p><b>Địa chỉ:</b>
+        <b3>280/9 Cổ Nhuế 2</b3>
+    </p>
+    <p><b>Trình Độ <br> Học vấn:</b>
+        <b3>Đại Học</b3>
+    </p>
+    <p><b>Bằng Cấp:</b>
+        <b3>Sắp có</b3>
+    </p>
+    <p><b>Kỹ Năng:</b>
+        <b3>chưa biết :))</b3>
+    </p>
+    <p><b>Kinh Nghiệm:</b>
+        <b3>không có </b3>
+    </p>
+    <p><b>Định Hướng <br> phát triển bản thân:</b>
+    <b3>phát triển thêm bản thân</b3></p>
+    <video controls width="200">
+        <source src="video.mp4">
+    </video>
+
+
+
+
+
+</body>
+
+</html>
